@@ -1,0 +1,46 @@
+
+
+/* slider */
+.slider h3,
+.slider h5{
+	text-shadow: 2px 2px 5px black
+}
+
+/* Parallax */
+.parallax-container{
+	height: 250px;
+}
+.parallax-container .container h2{
+	text-shadow: 2px 2px 5px black;
+}
+.parallax img{
+	filter: grayscale(1);
+	opacity: .8 !important;
+}
+
+
+/* Clients */
+.parallax-container .container .garena{
+	max-width: 250px;
+	margin-top: -15px;
+	filter: drop-shadow(3px 3px 5px black);
+}
+.parallax-container .container .shopee{
+	max-width: 450px;
+	margin-left: -75px;
+	filter: drop-shadow(3px 3px 5px black);
+}
+.parallax-container .container .grab{
+	max-width: 140px;
+	margin-top: 23px;
+	margin-left: -40px;
+	filter: drop-shadow(3px 3px 5px black);
+}
+
+
+section{
+	padding: 20px 0px;
+}
+footer{
+	padding: 10px 0px;
+}
